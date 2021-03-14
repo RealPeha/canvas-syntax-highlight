@@ -1,0 +1,31 @@
+{
+  "name": "canvas-syntax-highlight",
+  "version": "1.0.0",
+  "description": "Syntax highlighting on the canvas",
+  "author": "Stas Kardash (@RealPeha) real.peha@gmail.com",
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealPeha/canvas-syntax-highlight"
+  },
+  "bugs": {
+    "url": "https://github.com/RealPeha/canvas-syntax-highlight/issues"
+  },
+  "homepage": "https://github.com/RealPeha/canvas-syntax-highlight#readme",
+  "files": [
+    "lib/*.js"
+  ],
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "parse5": "^6.0.1",
+    "prismjs": "^1.23.0"
+  },
+  "keywords": [
+    "syntax",
+    "prism",
+    "highlight",
+    "canvas",
+    "syntax-highlight"
+  ]
+}
