@@ -1,6 +1,6 @@
 {
   "name": "canvas-syntax-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syntax highlighting on the canvas",
   "author": "Stas Kardash (@RealPeha) real.peha@gmail.com",
   "main": "./lib/index.js",
