@@ -4,11 +4,11 @@ Syntax highlighting on the canvas
 ## Installation
 npm
 
-    npm i canvas-syntax-highlight --save
+    $ npm i canvas-syntax-highlight --save
     
 or yarn
 
-    yarn add canvas-syntax-highlight
+    $ yarn add canvas-syntax-highlight
 
 ## Usage
 ```js
